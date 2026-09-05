@@ -80,6 +80,7 @@ A curated collection of essential tools, libraries, and resources for web develo
 - **[Turbopack](https://turbo.build/pack)** - Incremental bundler
 
 ### Testing Frameworks
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Node.js CLI for natural-language end-to-end web testing, with execution memory and MCP tools
 - **[Jest](https://jestjs.io/)** - Delightful JavaScript testing framework
 - **[Vitest](https://vitest.dev/)** - Unit test framework powered by Vite
 - **[Cypress](https://www.cypress.io/)** - End-to-end testing framework
